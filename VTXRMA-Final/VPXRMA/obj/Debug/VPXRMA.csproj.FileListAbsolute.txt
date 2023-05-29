@@ -1,0 +1,471 @@
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\VPXRMA.dll.config
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\VPXRMA.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\VPXRMA.pdb
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\obj\Debug\VPXRMA.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\obj\Debug\VPXRMA.csproj.CopyComplete
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\obj\Debug\VPXRMA.dll
+C:\Users\Admin\source\repos\VPXRMA\VPXRMA\obj\Debug\VPXRMA.pdb
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\VPXRMA.dll.config
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\VPXRMA.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\VPXRMA.pdb
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\csc.exe
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\csi.exe
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\csi.exe.config
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Console.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.IO.Compression.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Net.Http.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.ValueTuple.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\obj\Debug\VPXRMA.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\obj\Debug\VPXRMA.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\obj\Debug\VPXRMA.csproj.CopyComplete
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\obj\Debug\VPXRMA.dll
+C:\Users\LENOVO\Downloads\VPXRMA (2)\VPXRMA\VPXRMA\obj\Debug\VPXRMA.pdb
+D:\vtx\VTXRMA\VPXRMA\bin\VPXRMA.dll.config
+D:\vtx\VTXRMA\VPXRMA\bin\VPXRMA.dll
+D:\vtx\VTXRMA\VPXRMA\bin\VPXRMA.pdb
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\csc.exe
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\csc.exe.config
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\csc.rsp
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\csi.exe
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\csi.exe.config
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\csi.rsp
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.Managed.Core.targets
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.AppContext.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Collections.Immutable.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Console.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Globalization.Calendars.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.IO.Compression.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.IO.FileSystem.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Net.Http.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Net.Sockets.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Reflection.Metadata.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.ValueTuple.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Xml.XPath.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\vbc.exe
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\vbc.exe.config
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\vbc.rsp
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\VBCSCompiler.exe
+D:\vtx\VTXRMA\VPXRMA\bin\roslyn\VBCSCompiler.exe.config
+D:\vtx\VTXRMA\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vtx\VTXRMA\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vtx\VTXRMA\VPXRMA\obj\Debug\VPXRMA.csproj.AssemblyReference.cache
+D:\vtx\VTXRMA\VPXRMA\obj\Debug\VPXRMA.csproj.CoreCompileInputs.cache
+D:\vtx\VTXRMA\VPXRMA\obj\Debug\VPXRMA.csproj.CopyComplete
+D:\vtx\VTXRMA\VPXRMA\obj\Debug\VPXRMA.dll
+D:\vtx\VTXRMA\VPXRMA\obj\Debug\VPXRMA.pdb
+E:\ASP Projects\VTXRMA\VPXRMA\bin\VPXRMA.dll.config
+E:\ASP Projects\VTXRMA\VPXRMA\bin\VPXRMA.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\VPXRMA.pdb
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\csc.exe
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\csc.exe.config
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\csc.rsp
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\csi.exe
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\csi.exe.config
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\csi.rsp
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.AppContext.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Console.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.IO.Compression.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Net.Http.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Net.Sockets.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.ValueTuple.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Xml.XPath.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\vbc.exe
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\vbc.exe.config
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\vbc.rsp
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\VBCSCompiler.exe
+E:\ASP Projects\VTXRMA\VPXRMA\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP Projects\VTXRMA\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP Projects\VTXRMA\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP Projects\VTXRMA\VPXRMA\obj\Debug\VPXRMA.csprojAssemblyReference.cache
+E:\ASP Projects\VTXRMA\VPXRMA\obj\Debug\VPXRMA.csproj.CoreCompileInputs.cache
+E:\ASP Projects\VTXRMA\VPXRMA\obj\Debug\VPXRMA.csproj.CopyComplete
+E:\ASP Projects\VTXRMA\VPXRMA\obj\Debug\VPXRMA.dll
+E:\ASP Projects\VTXRMA\VPXRMA\obj\Debug\VPXRMA.pdb
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\VPXRMA.dll.config
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\VPXRMA.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\VPXRMA.pdb
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\csc.exe
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\csc.exe.config
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\csc.rsp
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\csi.exe
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\csi.exe.config
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\csi.rsp
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.AppContext.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Console.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.IO.Compression.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Net.Http.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Net.Sockets.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.ValueTuple.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Xml.XPath.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\vbc.exe
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\vbc.exe.config
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\vbc.rsp
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\VBCSCompiler.exe
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP Projects\VTXRMA--\VPXRMA\obj\Debug\VPXRMA.csprojAssemblyReference.cache
+E:\ASP Projects\VTXRMA--\VPXRMA\obj\Debug\VPXRMA.csproj.CoreCompileInputs.cache
+E:\ASP Projects\VTXRMA--\VPXRMA\obj\Debug\VPXRMA.csproj.CopyComplete
+E:\ASP Projects\VTXRMA--\VPXRMA\obj\Debug\VPXRMA.dll
+E:\ASP Projects\VTXRMA--\VPXRMA\obj\Debug\VPXRMA.pdb
+D:\shared\VTXRMA-Final\VPXRMA\bin\VPXRMA.dll.config
+D:\shared\VTXRMA-Final\VPXRMA\bin\VPXRMA.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\VPXRMA.pdb
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\csc.exe
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\csc.exe.config
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\csc.rsp
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\csi.exe
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\csi.exe.config
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\csi.rsp
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Managed.Core.targets
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.AppContext.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Collections.Immutable.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Console.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Globalization.Calendars.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.Compression.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.FileSystem.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Net.Http.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Net.Sockets.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Reflection.Metadata.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.ValueTuple.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XPath.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.exe
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.exe.config
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.rsp
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\VBCSCompiler.exe
+D:\shared\VTXRMA-Final\VPXRMA\bin\roslyn\VBCSCompiler.exe.config
+D:\shared\VTXRMA-Final\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\shared\VTXRMA-Final\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\shared\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.AssemblyReference.cache
+D:\shared\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.CoreCompileInputs.cache
+D:\shared\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.CopyComplete
+D:\shared\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.dll
+D:\shared\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.pdb
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\VPXRMA.dll.config
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\VPXRMA.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\VPXRMA.pdb
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\csc.exe
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\csc.exe.config
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\csc.rsp
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\csi.exe
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\csi.exe.config
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\csi.rsp
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Managed.Core.targets
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.AppContext.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Console.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Globalization.Calendars.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.Compression.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.FileSystem.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Net.Http.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Net.Sockets.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.ValueTuple.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XPath.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.exe
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.exe.config
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.rsp
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\VBCSCompiler.exe
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder88\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.AssemblyReference.cache
+D:\New folder88\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.CoreCompileInputs.cache
+D:\New folder88\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.CopyComplete
+D:\New folder88\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.dll
+D:\New folder88\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.pdb
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\VPXRMA.dll.config
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\VPXRMA.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\VPXRMA.pdb
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\csc.exe
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\csc.exe.config
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\csc.rsp
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\csi.exe
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\csi.exe.config
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\csi.rsp
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.AppContext.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Collections.Immutable.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Console.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Globalization.Calendars.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.Compression.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.FileSystem.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Net.Http.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Net.Sockets.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Reflection.Metadata.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.ValueTuple.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XPath.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.exe
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.exe.config
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\vbc.rsp
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\VBCSCompiler.exe
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\roslyn\VBCSCompiler.exe.config
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.AssemblyReference.cache
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.CoreCompileInputs.cache
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.csproj.CopyComplete
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.dll
+D:\VTXRMA-Final\VTXRMA-Final\VPXRMA\obj\Debug\VPXRMA.pdb

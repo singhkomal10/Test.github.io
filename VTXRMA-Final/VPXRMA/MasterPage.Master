@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="VPXRMA.MasterPage" %>
+
+<%@ Register Src="~/header.ascx" TagName="myhead" TagPrefix="wuc" %>
+<%@ Register Src="~/footer.ascx" TagName="myfoot" TagPrefix="wuc" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>VTXRMA</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="stylesheet" href="theme/vendor/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="theme/vendor/fonts/circular-std/style.css"  />
+    <link rel="stylesheet" href="theme/libs/css/style.css"/>
+    <link rel="stylesheet" href="theme/vendor/fonts/fontawesome/css/fontawesome-all.css" />
+    <link rel="stylesheet" href="theme/vendor/charts/chartist-bundle/chartist.css" />
+    <link rel="stylesheet" href="theme/vendor/charts/morris-bundle/morris.css" />
+    <link rel="stylesheet" href="theme/vendor/fonts/material-design-iconic-font/css/materialdesignicons.min.css" />
+    <link rel="stylesheet" href="theme/vendor/charts/c3charts/c3.css" />
+    <link rel="stylesheet" href="theme/vendor/fonts/flag-icon-css/flag-icon.min.css" />    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <div class="dashboard-main-wrapper">
+
+      <wuc:myhead ID="h1" runat="server"></wuc:myhead>
+         <form id="form1" class="forms-sample" runat="server">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      </asp:ContentPlaceHolder>
+             </form>
+      <wuc:myfoot ID="Myfoot" runat="server"></wuc:myfoot>
+    </div>   
+    <script src="/theme/vendor/jquery/jquery-3.3.1.min.js"></script>
+
+    <script src="/theme/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+
+    <script src="/theme/vendor/slimscroll/jquery.slimscroll.js"></script>
+
+    <script src="/theme/libs/js/main-js.js"></script>
+
+    <%--<script src="theme/vendor/charts/chartist-bundle/chartist.min.js"></script>--%>
+
+    <script src="/theme/vendor/charts/sparkline/jquery.sparkline.js"></script>
+
+    <%--<script src="theme/vendor/charts/morris-bundle/raphael.min.js"></script>
+    <script src="theme/vendor/charts/morris-bundle/morris.js"></script>--%>
+
+    <%--<script src="theme/vendor/charts/c3charts/c3.min.js"></script>
+    <script src="theme/vendor/charts/c3charts/d3-5.4.0.min.js"></script>
+    <script src="theme/vendor/charts/c3charts/C3chartjs.js"></script>--%>
+    <%--<script src="theme/libs/js/dashboard-ecommerce.js"></script>--%>
+    <script>
+        $(function () {
+            setNavigation();
+        });
+
+        function setNavigation() {            
+            var path = window.location.pathname;
+            path = path.replace(/\/$/, "");
+            path = decodeURIComponent(path);
+
+            $(".mynav a").each(function () {                
+                var href = $(this).attr('href');
+                console.log(href + " -" + path.substring(1));
+                if ("/"+path.substring(1) === href) {                    
+                    $(this).addClass('active');
+                    if ($(this).parent().parent().parent().hasClass("submenu")) {
+                        $(this).parent().parent().parent().addClass("show")
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>
