@@ -4,15 +4,15 @@ body{
   font-family: sans-serif;
   background: #34495e;
 }
-.box{
-  width: 300px;
-  padding: 40px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  background: #191919;
-  text-align: center;
+.box {
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #911717;
+    text-align: center;
 }
 .box h1{
   color: white;
