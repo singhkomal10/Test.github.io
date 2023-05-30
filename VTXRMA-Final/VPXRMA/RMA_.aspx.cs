@@ -30,13 +30,14 @@ namespace VPXRMA
             {
 
 
-
+                ddl_Status.ClearSelection();
+                getstatus();
                 check();
 
                 if (Request.QueryString["rid"] != null && Request.QueryString["rid"].ToString() != "")
                 {
-                    ddl_Status.ClearSelection();
-                    getstatus();
+                    //ddl_Status.ClearSelection();
+                    //getstatus();
                     Edit();
                     statusPanel.Visible = true;
                     btnpanel.Visible = true;
@@ -54,7 +55,7 @@ namespace VPXRMA
        
      
        
-
+        //--------------- FIND SERIAL NUMBER FOR ----------------
         protected void txtSr_NO_TextChanged(object sender, EventArgs e)
         {
 
@@ -271,7 +272,7 @@ namespace VPXRMA
                 string strstatus = checkbox3.Checked ? "Yes" : "No";
                 cmd.Parameters.AddWithValue("@Warranty", strstatus);
                 cmd.Parameters.AddWithValue("@Problem", txt_Problem.Text);
-                cmd.Parameters.AddWithValue("@status", ddl_Status.SelectedItem.Text);
+                cmd.Parameters.AddWithValue("@status", "Pending");
                 cmd.Parameters.AddWithValue("@UserName", Session["UserName"].ToString());
                 cmd.Parameters.AddWithValue("@EntryBy", Session["UserName"].ToString());
                 cmd.Parameters.AddWithValue("@EntryDate", DateTime.Now);
