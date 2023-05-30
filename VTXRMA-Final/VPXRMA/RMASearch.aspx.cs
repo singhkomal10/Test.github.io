@@ -21,7 +21,7 @@ namespace VPXRMA
         {
             if (!IsPostBack)
             {
-                //ExportToExcel();
+                ExportToExcel();
                 //bindimages();
                 //bindgrid();
                 bindstatus();
@@ -54,48 +54,56 @@ namespace VPXRMA
         }
         //-------------------------- bind grid for export to excel ----------------
 
-//        public void bindgrid1()
-//        {
-//            conmesp.Open();
-//            SqlCommand cmd = new SqlCommand("Sp_RMAReq_select", conmesp);
-//            cmd.CommandType = CommandType.StoredProcedure;
-//            SqlDataAdapter da = new SqlDataAdapter(cmd);
-//            DataTable dr = new DataTable();
-//            da.Fill(dr);
-//            conmesp.Close();
-//            grd_Search.DataSource = dr;
-//            grd_Search.DataBind();
+        //public void bindgrid1()
+        //{
+        //    conmesp.Open();
+        //    SqlCommand cmd = new SqlCommand("Sp_RMAReq_select", conmesp);
+        //    cmd.CommandType = CommandType.StoredProcedure;
+        //    SqlDataAdapter da = new SqlDataAdapter(cmd);
+        //    DataTable dr = new DataTable();
+        //    da.Fill(dr);
+        //    conmesp.Close();
+        //    grd_Search.DataSource = dr;
+        //    grd_Search.DataBind();
 
-//        }
-//        public void ExportToExcel()
-//        {
-//            Response.ClearContent();
-//            Response.Clear();
-//            Response.Buffer = true;
-//            Response.ClearContent();
-//            Response.ClearHeaders();
-//            Response.Charset = "";
-//            string FileName = "Vithal" + DateTime.Now + ".xls";
-//            StringWriter strwritter = new StringWriter();
-//            HtmlTextWriter htmltextwrtter = new HtmlTextWriter(strwritter);
-//            Response.Cache.SetCacheability(HttpCacheability.NoCache);
-//            Response.ContentType = "application/vnd.ms-excel";
-//            Response.AddHeader("Content-Disposition", "attachment;filename=" + FileName);
-//            grd_Search.GridLines = GridLines.Both;
-//            grd_Search.HeaderStyle.Font.Bold = true;
-//            grd_Search.RenderControl(htmltextwrtter);
-//            Response.Write(strwritter.ToString());
-//            using (StringWriter sw = new StringWriter())
-//            {
-//                HtmlTextWriter hw = new HtmlTextWriter(sw);
-//                grd_Search.RenderControl(hw);
-//                Response.Output.Write(sw.ToString());
-//                Response.Flush();
-//                Response.End();
-//            }
+        //}
 
-          
-//}
+        //---------------- EXPORT OT EXCEL----------------------
+        public override void VerifyRenderingInServerForm(Control control)
+        {
+            /* Confirms that an HtmlForm control is rendered for the specified ASP.NET
+               server control at run time. */
+        }
+        public void ExportToExcel()
+        {
+            if (grd_Search.Rows.Count > 0)
+            {
+                Response.Clear();
+                Response.Buffer = true;
+                Response.AddHeader("content-disposition", "attachment;filename=report_" + DateTime.Now.ToString("dd-MM-yyyy") + ".xls");
+                Response.Charset = "";
+                Response.ContentType = "application/vnd.ms-excel";
+                StringWriter sw = new StringWriter();
+                HtmlTextWriter hw = new HtmlTextWriter(sw);
+                grd_Search.RenderControl(hw);
+                System.Text.StringBuilder sbResponseString = new System.Text.StringBuilder();
+                sbResponseString.Append("<html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\" xmlns:x=\"urn:schemas-microsoft-com:office:xlExcel8\" xmlns=\"http://www.w3.org/TR/REC-html40\"> <head><style> table { mso-number-format:@;} </style></head> <body>");
+                sbResponseString.Append(sw + "</body></html>");
+                Response.Write(sbResponseString.ToString());
+                Response.End();
+
+                Response.Write(sw.ToString());
+                Response.Flush();
+                Response.End();
+
+
+            }
+            else
+            {
+                //lblAck.Text = "Nothing to export!";
+                //lblAck.ForeColor = System.Drawing.Color.Red;
+            }
+        }
 
         public void showData(string statusid)
         {
@@ -330,54 +338,110 @@ namespace VPXRMA
         }
 
 
+        protected void BindGridView()
+        {
+            // GridView ko bind karne ka code yahan likhein
+            // Example:
+            conmesp.Open();
+            SqlCommand cmd = new SqlCommand("Sp_status_select", conmesp);
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            conmesp.Close();
+            grd_Search.DataSource = dt;
+            grd_Search.DataBind();
+        }
+        protected DataTable GetGridData()
+        {
+            // Yahan aapki grid data source se data fetch karne ka code likhein
+            // Example:
+            DataTable dt = new DataTable();
+            dt.Columns.Add("Remark");
+            dt.Columns.Add("Status");
+
+            // Dummy data for example
+            dt.Rows.Add("Remark 1", "Status 1");
+            dt.Rows.Add("Remark 2", "Status 2");
+
+            return dt;
+        }
+
+
 
         protected void btnSave1_Click(object sender, EventArgs e)
         {
+            //DataTable dt = GetGridData();
+            //dt.Rows.Add(txt_Remarks.Text, ddl_Status.Text);
+            //DataRow newRow = dt.NewRow();
+            //newRow["Remark"] = txt_Remarks.Text;
+            //newRow["Status"] = ddl_Status.Text;
+            //dt.Rows.Add(newRow);
+
+            ////// Clear input fields
+            ////txt_Remarks.Text = string.Empty;
+            ////ddlStatus.Text = string.Empty;
+
+            //// Rebind GridView
+            //BindGridView();
+            //// Save button ke click hone par, textboxes ki values clear kar dein
+            ////txt_Remarks.Text = string.Empty;
+            ////ddlStatus.Text = string.Empty;
+
+            //BindGridView(); // GridView ko refresh karein, updated data ko dikhane ke liye
+
+
+
             foreach (GridViewRow row in grd_Search.Rows)
             {
                 CheckBox chk = (CheckBox)row.FindControl("MyCheckBox");
                 if (chk.Checked)
                 {
                     //int idValue = Convert.ToInt32(grd_Search.DataKeys[row.RowIndex].Value);
-                    string idValue = row.Cells[1].Text;
-                    //int idValue = Convert.ToInt32(row.Cells[0].Text);
-                    //string idValue = grd_Search.DataKeys[row.RowIndex].Value.ToString();
+                    string idValue = row.Cells[2].Text;
+                
+                 //idValue = grd_Search.DataKeys[row.RowIndex].Value.ToString();
 
-                    string query1 = "INSERT INTO tbl_status_log(FileRefNo, Status,Remarks,UserName,UserDate) " +
-                        "values ('" + idValue.ToString() + "','" + ddl_Status.SelectedItem.Text + "','" + txt_Remarks.Text + "','" + Session["UserName"].ToString() + "','" + DateTime.Now + "')";
+                string query1 = "INSERT INTO tbl_status_log(FileRefNo, Status,Remarks,UserName,UserDate) " +
+                    "values ('" + idValue.ToString() + "','" + ddl_Status.SelectedItem.Text + "','" + txt_Remarks.Text + "','" + Session["UserName"].ToString() + "','" + DateTime.Now + "')";
 
-                    string query2 = "UPDATE tbl_RMAReq SET status = '" + ddl_Status.SelectedItem.Text + "' WHERE id = " + idValue;
+                string query2 = "UPDATE tbl_RMAReq SET status = '" + ddl_Status.SelectedItem.Text + "' WHERE id = " + idValue;
 
-                    // Create SQL command object
-                    using (SqlCommand cmd = new SqlCommand(query1, conmesp))
-                    {
-                        conmesp.Open();
-                        // Execute SQL command
-                        cmd.ExecuteNonQuery();
-                        conmesp.Close();                        
-                    }
+                // Create SQL command object
+                using (SqlCommand cmd = new SqlCommand(query1, conmesp))
+                {
+                    conmesp.Open();
+                    // Execute SQL command
+                    cmd.ExecuteNonQuery();
+                    conmesp.Close();
+                }
 
-                    using (SqlCommand cmd = new SqlCommand(query2, conmesp))
-                    {
-                        conmesp.Open();
-                        // Execute SQL command
-                        cmd.ExecuteNonQuery();
-                        conmesp.Close();
-                    }
-                    
-                    conmesp.Dispose();
-                    
+                using (SqlCommand cmd = new SqlCommand(query2, conmesp))
+                {
+                    conmesp.Open();
+                    // Execute SQL command
+                    //cmd.ExecuteNonQuery();
+                    conmesp.Close();
+                }
+
+                conmesp.Dispose();
+
                 }
                 else
                 {
                     return;
                 }
             }
+
+
+
+
         }
+
 
         protected void txtexport_Click(object sender, EventArgs e)
         {
-            //ExportToExcel();
+            ExportToExcel();
         }
     }
     

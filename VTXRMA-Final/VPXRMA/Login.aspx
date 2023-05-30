@@ -5,11 +5,11 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html >
 <head runat="server">
   	<link rel="stylesheet" href="css/style.css"/>
   	<meta charset="utf-8"/>
-    <title>ََV2SK</title>
+    <title>V2SK</title>
     <link rel="stylesheet" href="style.css"/>
 		<link href="loginpage/style.css" rel="stylesheet" />
  <%--   <link href="style.css" rel="stylesheet" />
@@ -17,7 +17,9 @@
   </head>
 <body>
     <form id="form1" class="box" runat="server">
-     <h1>VTXRMA</h1>
+    <%-- <h1>VTXRMA</h1>--%>
+        <a class="nav-link"><img src="assests/images/Logo.png" style="width: 120px;
+    height: 40px" />-  </a>
   <%--<input type="text" name="" placeholder="Username"/>
   <input type="password" name="" placeholder="Password"/>
   <input type="submit" name="" value="Login">--%>
