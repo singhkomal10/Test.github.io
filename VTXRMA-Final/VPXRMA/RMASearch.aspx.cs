@@ -352,45 +352,13 @@ namespace VPXRMA
             grd_Search.DataSource = dt;
             grd_Search.DataBind();
         }
-        protected DataTable GetGridData()
-        {
-            // Yahan aapki grid data source se data fetch karne ka code likhein
-            // Example:
-            DataTable dt = new DataTable();
-            dt.Columns.Add("Remark");
-            dt.Columns.Add("Status");
-
-            // Dummy data for example
-            dt.Rows.Add("Remark 1", "Status 1");
-            dt.Rows.Add("Remark 2", "Status 2");
-
-            return dt;
-        }
-
+       
 
 
         protected void btnSave1_Click(object sender, EventArgs e)
         {
-            //DataTable dt = GetGridData();
-            //dt.Rows.Add(txt_Remarks.Text, ddl_Status.Text);
-            //DataRow newRow = dt.NewRow();
-            //newRow["Remark"] = txt_Remarks.Text;
-            //newRow["Status"] = ddl_Status.Text;
-            //dt.Rows.Add(newRow);
-
-            ////// Clear input fields
-            ////txt_Remarks.Text = string.Empty;
-            ////ddlStatus.Text = string.Empty;
-
-            //// Rebind GridView
-            //BindGridView();
-            //// Save button ke click hone par, textboxes ki values clear kar dein
-            ////txt_Remarks.Text = string.Empty;
-            ////ddlStatus.Text = string.Empty;
-
-            //BindGridView(); // GridView ko refresh karein, updated data ko dikhane ke liye
-
-
+           
+           
 
             foreach (GridViewRow row in grd_Search.Rows)
             {
