@@ -16,7 +16,9 @@ body {
     left: 50%;
     transform: translate(-50%,-50%);
     /*background: #911717;*/
-    background-color: rgba(153,0,0,0.7);
+    /*background-color: rgba(153,0,0,0.7);*/
+    background-color: rgb(85,20,20);
+    background: #3c0f0f;
     text-align: center;
 }
 .box h1{
