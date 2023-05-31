@@ -229,6 +229,15 @@
                                     <ItemStyle CssClass="gridvirticalline"></ItemStyle>
                                 </asp:TemplateField>
 
+                                 <asp:TemplateField HeaderText="Total Days">
+                                    <ItemTemplate>
+                                        <%#Eval("TotalDays") %>
+                                    </ItemTemplate>
+                                    <HeaderStyle CssClass="gridHeaderVirticalline"></HeaderStyle>
+
+                                    <ItemStyle CssClass="gridvirticalline"></ItemStyle>
+                                </asp:TemplateField>
+
                                 <asp:TemplateField HeaderText="Warranty">
                                     <ItemTemplate>
                                         <%#Eval("Warranty") %>
@@ -361,10 +370,6 @@
                             <SortedDescendingCellStyle BackColor="#D6DFDF" />
                             <SortedDescendingHeaderStyle BackColor="#002876" />
                         </asp:GridView>
-
-                        
-                            
-                      
                     </div>
                 </div>
 
